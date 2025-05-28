@@ -14,9 +14,6 @@ Welcome to the **Potato Leaf Disease Classifier**, an AI-powered web tool design
 2. **AI Analysis:** The tool processes the image and uses AI to detect potential issues.
 3. **Get Results:** You'll receive a diagnosis, along with helpful recommendations to treat the condition.
 
-### Link to Web App
-Access the Potato Leaf Disease Classifier here: [Potato Leaf Disease Classifier](https://potato-leaf-disease-classifier.streamlit.app/)
-
 ### Getting Started
 1. Visit the web app at the provided link.
 2. Click on the **Leaf Analysis** tab to upload your potato leaf image.
